@@ -1,5 +1,5 @@
 # MyRatingBar
-![Alt text](relative/Screenshot_1.png?raw=true "Title")
+![](https://github.com/fulianchen/MyRatingBar/blob/master/Screenshot_1.png "")
 
 ###
 代码<br />
