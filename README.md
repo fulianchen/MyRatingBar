@@ -1,5 +1,5 @@
 # MyRatingBar
-![](https://github.com/fulianchen/MyRatingBar/blob/master/Screenshot_1.png =100"")
+![](https://github.com/fulianchen/MyRatingBar/raw/master/Screenshot_1.png "")
 
 ###
 代码<br />
