@@ -1,8 +1,9 @@
 # MyRatingBar
-![](https://github.com/fulianchen/MyRatingBar/blob/master/Screenshot_1.png "")
+![](https://github.com/fulianchen/MyRatingBar/blob/master/Screenshot_1.png 500"")
 
 ###
 代码<br />
+```xml
     <com.myratingbar.MyRatingBar
         android:id="@+id/my_rating_bar"
         android:layout_width="wrap_content"
@@ -16,6 +17,8 @@
         app:star_hollow="@drawable/ic_rating_bar_hollow"
         app:star_rating="0"
         app:star_max="5" />
+
+```
 
 
 
